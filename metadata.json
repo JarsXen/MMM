@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kado Ulang Tahun",
+  "description": "Website ulang tahun spesial dengan animasi lucu, musik, dan foto-foto untuk perempuan tersayang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
